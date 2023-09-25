@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#image1{
+width: 100%;
+display: flex;
+}
+#container1{
+    display: inline-flex;
+    width: 450px;
+    height: 265px;
+    margin-top: -2000px;
+    margin-left: 35px;
+    margin-bottom: 222px;
+    opacity: 0%;
+    background-color: white;
+}
+.image-TRAVEL{
+    margin-top: -600px;
+    margin-left: 100px;
+    width: 350px;
+    height: 200px;
+}
+.image {
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: -500px;
+    margin-top: -55px;
+}
+.heading{
+    text-align: center;
+    margin-top: 25px;
+}
+.image1{
+    height: 400px;
+    width: 100%;
+    margin-top: 25px;
+
+}
+.text1{
+    height: 350px;
+    width: 40%;
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+.image2{
+    height: 300px;
+    width: 350px;
+    margin-top:-10000px;
+    margin-left: 1000px;
+}
+.text1{
+    margin-left: 450px;
+}
+.text2{
+    height: 50 px;
+    width: 450px;
+    margin-left: 350px;
+    margin-top: -250px;
+}
+.text3{
+    
+    height: 150 px;
+    width: 400px;
+    margin-left: 800px;
+    margin-top: 20px;
+}
+.image4{
+    margin-top: -200px;
+    margin-left: 900px;
+    height: 160px;
+    width: 260px;
+}
+.image5{
+    margin-left: 350px;
+    margin-top: -200px;
+    height: 230px;
+    width: 300px;
+}.forum-text{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.forum-text1{
+    font-size:40px;
+    margin-top: -450px;
+    margin-left: 70px;
+}
+.forum1{
+    margin-top: -100px;
+    margin-left: 850px;
+}
+.forum-image2{
+    margin-top: -400px;
+    margin-left: 850px;
+    margin-right: 50px;
+}
+.box {
+    width: 400px;
+    height: 450px;
+    margin-left:250px;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+.box1 {
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+    margin-left:250px;
+    border: 2px solid rgb(22, 231, 172);
+    background-color: rgb(22, 231, 172);
+    padding: 10px;
+    text-align: center;
+    margin: 20px;
+}
+.booking1{
+    margin-left: 200px;
+}
+.booking2{
+    margin-left: 650px;
+    margin-top: -138px;
+}
+.booking3{
+    margin-left: 1100px;
+    margin-top: -138px;
+}
+
+
+
